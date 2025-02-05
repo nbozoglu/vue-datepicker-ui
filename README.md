@@ -57,7 +57,7 @@ and
     :text-format="" 
     :date-format=""
     :disabled=""
-    :placeholder=""
+    placeholder=""
     :circle=""
     :show-clear-button=""
     :show-picker-inital=""/>
